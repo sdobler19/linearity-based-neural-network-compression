@@ -1,0 +1,7 @@
+*/__pycache__/
+
+*.keras
+
+**.venv/ 
+
+**/data
