@@ -1,4 +1,4 @@
-# adapted from the kaggle submission notebook: https://www.kaggle.com/code/moghazy/simple-mlp-with-feature-engineering-and-eda
+# adapted from the kaggle submission notebook: https://www.kaggle.com/code/moghazy/simple-mlp-with-feature-engineering-and-eda used under the Apache 2.0 License
 
 import pandas as pd
 

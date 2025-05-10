@@ -20,9 +20,9 @@ Python 3.11.x
 
 all dependencies can be loaded with the requirements file
 
-'''sh
+```sh
 pip install -r requirements.txt
-'''
+```
 
 ## Repo structure
 
