@@ -16,7 +16,7 @@ However, similar to dead ReLUs can ReLU-like activation functions end up linear 
 
 ## Dependencies
 
-Python 3.11.X
+Python 3.11.x
 
 all dependencies can be loaded with the requirements file
 
